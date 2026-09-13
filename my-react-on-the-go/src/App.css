@@ -716,19 +716,18 @@ button {
 .technology-card {
   background: #ffffff;
   border: 1px solid #e2e8f0;
-  border-radius: 2px;
+  border-radius: 8px;
   padding: 24px;
   min-height: 250px;
-
   display: flex;
   flex-direction: column;
-
-  transition: 0.25s ease;
+  transition: all 0.25s ease;
 }
 
 .technology-card:hover {
-  border-color: #cbd5e1;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+  border-color: #46192f;
+  box-shadow: 0 8px 24px rgba(236, 72, 153, 0.12);
+  transform: translateY(-2px);
 }
 .learn-more {
   display: inline-flex;
