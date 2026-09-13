@@ -1,4 +1,4 @@
-# 🚀 Dev Stack
+# Dev Stack
 
 ##  About The Project
 
@@ -14,7 +14,7 @@
 * JSON
 * Vite
 
-## ✨ Key Features
+##  Key Features
 
 * **Explore Technologies:** Browse different technologies with their category, description, rating, difficulty, and icon.
 * **Build Your Stack:** Add technologies to your personal stack and remove them whenever needed.
