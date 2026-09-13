@@ -4,6 +4,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Technologies from "./Components/Technologies";
+import Footer from "./Components/Footer";
 
 interface Technology {
   id: string;
@@ -56,6 +57,7 @@ function App() {
         onRemoveFromStack={handleRemoveFromStack}
         onRemoveAll={handleRemoveAll}
       />
+      <Footer />
     </div>
   );
 }
